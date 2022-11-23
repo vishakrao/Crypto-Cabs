@@ -1,5 +1,5 @@
 import React from "react";
-import home from "./promo.jpg";
+import home from "./promo1.jpg";
 function Home() {
   return (
     <div className="home">
