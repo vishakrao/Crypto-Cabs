@@ -4,7 +4,7 @@
   height: 20%;
   display: grid;
   grid-template-columns: 85% 15%;
-  grid-gap: 25px;
+  grid-gap: 0px;
   background-color: gainsboro;
   align-items: center;
 }
