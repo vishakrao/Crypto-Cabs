@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "@mantine/core";
+import { Button, Divider } from "@mantine/core";
 import "./Home.css";
 const logo =
   "https://i.pinimg.com/736x/dc/39/7b/dc397bc95c4ac7a99c7a45a73355adee.jpg";
